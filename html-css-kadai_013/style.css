@@ -81,8 +81,6 @@ PC用のスタイル
   }
 
   #menu-sp{
-    background-color: transparent;
-    border: none;
     float: right;
     padding: 0;
   }
@@ -107,8 +105,6 @@ PC用のスタイル
   }
 
   #close{
-    background-color: transparent;
-    border: none;
     position: absolute;
     top: 20px;
     right: 20px;
